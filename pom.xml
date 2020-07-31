@@ -5,21 +5,24 @@
   <version>0.0.1-SNAPSHOT</version>
   <description>To test Jitpack to publish to repo and have then available as depencencies</description>
 
+	<!--
 	<repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>
-	
+	-->
 	
 	<dependencies>
 	
+		<!--
 		<dependency>
 		    <groupId>com.github.lsarot</groupId>
 		    <artifactId>first-jitpack-demo</artifactId>
 		    <version>master-SNAPSHOT</version>
 		</dependency>
+		-->
 	
 	</dependencies>
 
